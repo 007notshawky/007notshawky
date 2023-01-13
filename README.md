@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **WEB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
