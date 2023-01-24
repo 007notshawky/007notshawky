@@ -8,7 +8,7 @@ Full-Stack Web Developer - MERN‎
 <p>🌱 I’m currently learning Java Script</p>
 <p>❓ Ask me about anything related to MERN stack and related technologies</p>
 
-* 🖥️  See my portfolio at [My Portfolio](http://https://mustafa-shawky.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://mustafa-shawky.netlify.app/)
 * ✉️  You can contact me at [mostafashawky100000@gmail.com](mailto:mostafashawky100000@gmail.com)
 * 🧠  I'm learning Java Script
 
