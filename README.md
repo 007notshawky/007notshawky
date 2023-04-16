@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I am currently focused on learning JavaScript and constantly expanding my knowledge in web development.<br>💻 My proficiency lies in MERN stack development, and I am always looking to enhance my skills in this area.<br>🌟 I am passionate about creating user-centric digital solutions that provide seamless experiences for users.<br>✉️  You can contact me at https://api.whatsapp.com/send/?phone=201008591657
+🧠 I am currently focused on learning JavaScript and constantly expanding my knowledge in web development.<br>💻 My proficiency lies in MERN stack development, and I am always looking to enhance my skills in this area.<br>🌟 I am passionate about creating user-centric digital solutions that provide seamless experiences for users.<br>✉️  You can contact me at <a href="https://api.whatsapp.com/send/?phone=201008591657" target = _blank > 01008591657</a>
 
 
 ## 🌐 Socials:
